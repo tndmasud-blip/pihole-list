@@ -3,6 +3,4 @@ images.capp.bka.sh
 cmsimages.capp.bka.sh
 api.cde.capp.bka.sh
 management.azure.com
-shrinkme.click
-themezon.net
-en.mrproblogger.com
+modal.com
