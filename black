@@ -2766,12 +2766,16 @@
 
 # gay
 0.0.0.0 sniffies.com
-
-
 0.0.0.0 bsky.app
 
-0.0.0.0 x.com
-0.0.0.0 www.x.com
+
+
+#social media
+||x.com^
+
+#others
+||amazon.com^
+||ebay.com^
 
 #NSFW
 ||gta5-mods.com^
