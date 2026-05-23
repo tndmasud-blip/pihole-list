@@ -2647,7 +2647,9 @@
 0.0.0.0 th.datememe.com
 0.0.0.0 vi.datememe.com
 0.0.0.0 zh-cn.datememe.com
-
+0.0.0.0 low.kahfguard.com
+0.0.0.0 medium.kahfguard.com
+0.0.0.0 high.kahfguard.com
 # clubhouse
 0.0.0.0 joinclubhouse.com
 0.0.0.0 www.joinclubhouse.com
@@ -2769,12 +2771,21 @@
 0.0.0.0 bsky.app
 
 0.0.0.0 x.com
+0.0.0.0 www.x.com
 
+#NSFW
 0.0.0.0 gta5-mods.com
 0.0.0.0 www.gta5-mods.com
+0.0.0.0 gamepressure.com
+0.0.0.0 www.gamepressure.com
+0.0.0.0 gamerjournalist.com
+0.0.0.0 www.gamerjournalist.com
+0.0.0.0 ulule.com
+0.0.0.0 www.ulule.com
+0.0.0.0 cyberpunk2077mod.com
+0.0.0.0 www.cyberpunk2077mod.com
+0.0.0.0 ust.so
+0.0.0.0 www.ust.so
 
 
-0.0.0.0 low.kahfguard.com
-0.0.0.0 medium.kahfguard.com
-0.0.0.0 high.kahfguard.com
 
