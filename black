@@ -2646,9 +2646,7 @@
 0.0.0.0 th.datememe.com
 0.0.0.0 vi.datememe.com
 0.0.0.0 zh-cn.datememe.com
-0.0.0.0 low.kahfguard.com
-0.0.0.0 medium.kahfguard.com
-0.0.0.0 high.kahfguard.com
+
 # clubhouse
 0.0.0.0 joinclubhouse.com
 0.0.0.0 www.joinclubhouse.com
@@ -2768,6 +2766,10 @@
 0.0.0.0 bsky.app
 
 
+#low.kahfguard.com
+#medium.kahfguard.com
+#high.kahfguard.com
+
 
 #social media
 ||x.com^
@@ -2775,7 +2777,7 @@
 #others
 ||amazon.com^
 ||ebay.com^
-
+||shutterstock.com^
 #NSFW
 ||gta5-mods.com^
 ||gamepressure.com^
@@ -2793,3 +2795,16 @@
 ||wikipedia.org^
 ||qwant.com^
 ||prompthero.com^
+||tensor.art^
+||wikimedia.org^
+||turbosquid.com^
+||sketchfab.com^
+||crealitycloud.com^
+||makerworld.com^
+||printables.com^
+||patreon.com^
+||stlfinder.com^
+||myminifactory.com^
+||hyper3d.ai^
+||thangs.com^
+||theresanaiforthat.com^
